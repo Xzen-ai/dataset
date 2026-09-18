@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "pdrb",
+      "name": "Produk Domestik Regional Bruto",
+      "shortName": "PDRB",
+      "category": "Ekonomi regional",
+      "description": "Telusuri PDRB dan laju pertumbuhan ekonomi melalui tabel dan visualisasi data.",
+      "icon": "chart",
+      "tone": "teal",
+      "unit": "",
+      "region": "",
+      "period": "",
+      "sourceName": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "ipm",
+      "name": "Indeks Pembangunan Manusia",
+      "shortName": "IPM",
+      "category": "Pembangunan manusia",
+      "description": "Indikator pembangunan manusia yang mencakup kesehatan, pendidikan, dan standar hidup.",
+      "icon": "book",
+      "tone": "blue",
+      "unit": "",
+      "region": "",
+      "period": "",
+      "sourceName": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "inflasi",
+      "name": "Inflasi",
+      "shortName": "Inflasi",
+      "category": "Harga & daya beli",
+      "description": "Data Indeks Harga Konsumen dan tingkat inflasi untuk memahami perubahan harga.",
+      "icon": "trend",
+      "tone": "amber",
+      "unit": "",
+      "region": "",
+      "period": "",
+      "sourceName": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "ketenagakerjaan",
+      "name": "Ketenagakerjaan",
+      "shortName": "Ketenagakerjaan",
+      "category": "Pasar tenaga kerja",
+      "description": "Tingkat Pengangguran Terbuka dan profil angkatan kerja untuk kajian ketenagakerjaan.",
+      "icon": "users",
+      "tone": "purple",
+      "unit": "",
+      "region": "",
+      "period": "",
+      "sourceName": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "kemiskinan",
+      "name": "Kemiskinan & Rasio Gini",
+      "shortName": "Kemiskinan & Rasio Gini",
+      "category": "Kesejahteraan & ketimpangan",
+      "description": "Persentase penduduk miskin, garis kemiskinan, dan Rasio Gini untuk kajian kesejahteraan.",
+      "icon": "scale",
+      "tone": "rose",
+      "unit": "",
+      "region": "",
+      "period": "",
+      "sourceName": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "sdfsdfsdf",
+      "name": "dsfsdfs",
+      "shortName": "sdfsdfsdf",
+      "category": "sfsdfsd",
+      "description": "sdfsdfsdfsdf",
+      "unit": "dsfsdf",
+      "region": "sdfsdf",
+      "period": "sdfsdfsd",
+      "sourceName": "sdfsdf",
+      "sourceUrl": "https://aceh.bps.go.id/id",
+      "icon": "chart",
+      "tone": "teal"
+    }
+  ]
+}
