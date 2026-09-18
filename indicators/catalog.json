@@ -84,6 +84,20 @@
       "sourceUrl": "https://aceh.bps.go.id/id",
       "icon": "chart",
       "tone": "teal"
+    },
+    {
+      "id": "dasdasdas",
+      "name": "SDAS",
+      "shortName": "DASDASDAS",
+      "category": "DASDASDAS",
+      "description": "DASDASD",
+      "unit": "ASDASDAS",
+      "region": "DASDASD",
+      "period": "ASDASDASD",
+      "sourceName": "ASDASDA",
+      "sourceUrl": "https://aceh.bps.go.id/id",
+      "icon": "chart",
+      "tone": "teal"
     }
   ],
   "archivedIds": [
