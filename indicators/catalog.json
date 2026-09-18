@@ -98,6 +98,20 @@
       "sourceUrl": "https://aceh.bps.go.id/id",
       "icon": "chart",
       "tone": "teal"
+    },
+    {
+      "id": "cdcda",
+      "name": "asdasd",
+      "shortName": "cdcda",
+      "category": "cdcsadcdas",
+      "description": "cdazxca",
+      "unit": "asdcasc",
+      "region": "sdgvSF",
+      "period": "ASFASDFA",
+      "sourceName": "ASD",
+      "sourceUrl": "https://aceh.bps.go.id/id",
+      "icon": "chart",
+      "tone": "teal"
     }
   ],
   "archivedIds": [
