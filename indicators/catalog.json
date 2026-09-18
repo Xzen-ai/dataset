@@ -7,13 +7,13 @@
       "shortName": "PDRB",
       "category": "Ekonomi regional",
       "description": "Telusuri PDRB dan laju pertumbuhan ekonomi melalui tabel dan visualisasi data.",
-      "icon": "chart",
-      "tone": "teal",
       "unit": "",
       "region": "",
       "period": "",
       "sourceName": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "icon": "chart",
+      "tone": "teal"
     },
     {
       "id": "ipm",
@@ -21,13 +21,13 @@
       "shortName": "IPM",
       "category": "Pembangunan manusia",
       "description": "Indikator pembangunan manusia yang mencakup kesehatan, pendidikan, dan standar hidup.",
-      "icon": "book",
-      "tone": "blue",
       "unit": "",
       "region": "",
       "period": "",
       "sourceName": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "icon": "book",
+      "tone": "blue"
     },
     {
       "id": "inflasi",
@@ -35,13 +35,13 @@
       "shortName": "Inflasi",
       "category": "Harga & daya beli",
       "description": "Data Indeks Harga Konsumen dan tingkat inflasi untuk memahami perubahan harga.",
-      "icon": "trend",
-      "tone": "amber",
       "unit": "",
       "region": "",
       "period": "",
       "sourceName": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "icon": "trend",
+      "tone": "amber"
     },
     {
       "id": "ketenagakerjaan",
@@ -49,13 +49,13 @@
       "shortName": "Ketenagakerjaan",
       "category": "Pasar tenaga kerja",
       "description": "Tingkat Pengangguran Terbuka dan profil angkatan kerja untuk kajian ketenagakerjaan.",
-      "icon": "users",
-      "tone": "purple",
       "unit": "",
       "region": "",
       "period": "",
       "sourceName": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "icon": "users",
+      "tone": "purple"
     },
     {
       "id": "kemiskinan",
@@ -63,13 +63,13 @@
       "shortName": "Kemiskinan & Rasio Gini",
       "category": "Kesejahteraan & ketimpangan",
       "description": "Persentase penduduk miskin, garis kemiskinan, dan Rasio Gini untuk kajian kesejahteraan.",
-      "icon": "scale",
-      "tone": "rose",
       "unit": "",
       "region": "",
       "period": "",
       "sourceName": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "icon": "scale",
+      "tone": "rose"
     },
     {
       "id": "sdfsdfsdf",
@@ -85,5 +85,8 @@
       "icon": "chart",
       "tone": "teal"
     }
+  ],
+  "archivedIds": [
+    "sdfsdfsdf"
   ]
 }
